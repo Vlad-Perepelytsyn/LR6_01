@@ -11,7 +11,7 @@ int main()
 	cout << "Hello, Влад" << endl;
 }
 //підключення git до Visual Studio
-
+//comment 3
 
 
 
