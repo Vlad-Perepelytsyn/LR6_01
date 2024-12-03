@@ -10,8 +10,8 @@ int main()
 	cout << "Hello, Vlad" << endl;
 	cout << "Hello, Влад" << endl;
 }
-//тест git
-//коментар 2
+//тест git 1
+//коментар 1
 
 
 
