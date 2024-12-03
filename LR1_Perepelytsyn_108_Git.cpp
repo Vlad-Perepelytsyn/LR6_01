@@ -10,8 +10,7 @@ int main()
 	cout << "Hello, Vlad" << endl;
 	cout << "Hello, Влад" << endl;
 }
-//тест git 1
-//коментар 1
+//підключення git до Visual Studio
 
 
 
